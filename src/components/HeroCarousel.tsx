@@ -81,7 +81,9 @@ const HeroCarousel = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button variant="hero" size="xl">
-              Get Free Quote
+             
+  <a href="#">Get Free Quote</a>
+
             </Button>
             <Button variant="outline" size="xl" className="border-white text-white hover:bg-white hover:text-primary">
               View Our Work
