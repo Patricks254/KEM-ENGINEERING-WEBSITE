@@ -16,7 +16,7 @@ const ServicesSection = () => {
     },
     {
       title: "Staircases & Railings",
-      imageSrc: "/public/a.jpg",
+      imageSrc: "/a.jpg",
       features: [
         "Spiral staircases",
         "Straight staircases",
@@ -27,7 +27,7 @@ const ServicesSection = () => {
     },
     {
       title: "Security Doors & Grilles",
-      imageSrc: "/public/Secwindow.jpg",
+      imageSrc: "/Secwindow.jpg",
       features: [
         "Security doors",
         "Window grilles",
@@ -38,7 +38,7 @@ const ServicesSection = () => {
     },
     {
       title: "Metal Shades & Awnings",
-      imageSrc: "/public/Shade.jpg",
+      imageSrc: "/Shade.jpg",
       features: [
         "Car port shades",
         "Patio awnings",
@@ -49,7 +49,7 @@ const ServicesSection = () => {
     },
     {
       title: "Structural Steel Work",
-      imageSrc: "/public/Roof.jpg",
+      imageSrc: "/Roof.jpg",
       features: [
         "Building frames",
         "Support beams",
@@ -60,7 +60,7 @@ const ServicesSection = () => {
     },
     {
       title: "Repairs & Maintenance",
-      imageSrc: "/public/repair.jpg",
+      imageSrc: "/repair.jpg",
       features: [
         "Welding repairs",
         "Rust treatment",
